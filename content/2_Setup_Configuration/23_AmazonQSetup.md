@@ -31,7 +31,7 @@ To create a profile:
 
 ## Authentication Setup
 
-::alert[**Important:**.*]{type="warning"}
+::alert[**Important:** Complete authentication for both the IDE Plugin and CLI tabs below to access Amazon Q's full capabilities.]{type="info"}
 
 ::::tabs{variant="container"}
 

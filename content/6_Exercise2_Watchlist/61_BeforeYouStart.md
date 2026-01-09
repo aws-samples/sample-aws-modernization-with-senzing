@@ -105,6 +105,4 @@ Everything else (Sanctions, Ownership, Directorship, Identifiers, Addresses) are
 
 ---
 
-{{% notice info %}}
-**Ready?** Continue to the next page to see the complete workflow steps and key outcomes to watch for.
-]{type="info"}
+::alert[**Ready?** Continue to the next page to see the complete workflow steps and key outcomes to watch for.]{type="info"}

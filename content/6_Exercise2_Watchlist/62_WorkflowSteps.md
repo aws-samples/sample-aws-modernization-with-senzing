@@ -7,13 +7,7 @@ weight = 62
 
 Follow these steps to map the FTM watchlist data to Senzing format. Each step includes example prompts and references to key outcomes you should achieve.
 
-::alert[
-**The AI often knows the next step and will ask if you're ready to proceed.**
-
-- Say "yes" if you're ready to move forward
-- Ask questions if you need clarification before proceeding
-- Use the starting prompts below to redirect it if needed
-]{type="info"}
+::alert[**The AI often knows the next step and will ask if you're ready to proceed.** Say "yes" if you're ready to move forward. Ask questions if you need clarification before proceeding. Use the starting prompts below to redirect it if needed]{type="info"}
 
 ---
 
@@ -43,9 +37,7 @@ These screenshots show what correct results should look like at critical stages 
 
 **Your job is to direct the AI to these outcomes if it is doing something else.**
 
-::alert[
-**Having trouble?** You can copy/paste the screenshot into the prompt and tell the AI "this is the result I'm looking for!"
-]{type="info"}
+::alert[**Having trouble?** You can copy/paste the screenshot into the prompt and tell the AI "this is the result I'm looking for!"]{type="info"}
 
 ---
 

@@ -12,6 +12,11 @@ Now that your environment is configured, here are important resources you can re
 - Ask your instructor or workshop facilitators
 - Use the event chat or Q&A features
 
+### For Self-Paced Learners
+- Review the complete solutions provided in each module
+- Check the troubleshooting sections within each module
+- Consult the Senzing and AWS documentation links below
+
 ::alert[All workshop modules include validation checkpoints. If you encounter issues, check that you've completed each validation step before proceeding.]{type="info"}
 
 ## Senzing Resources

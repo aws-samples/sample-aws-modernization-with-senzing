@@ -207,6 +207,4 @@ Your domain knowledge + AI's Senzing expertise = Quality results
 
 ---
 
-::alert[
-**Workshop Complete!** You've learned AI-assisted entity resolution from foundations to advanced techniques. Now apply these skills to your own data challenges. Good luck!
-]{type="info"}
+::alert[**Workshop Complete!** You've learned AI-assisted entity resolution from foundations to advanced techniques. Now apply these skills to your own data challenges. Good luck!]{type="info"}
