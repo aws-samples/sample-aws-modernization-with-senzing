@@ -153,7 +153,5 @@ q chat
 
 ## Wrap up
 
-::alert[**Checkpoint:** Ensure you have completed authentication and feature setup for both the IDE Plugin and CLI before proceeding.]{type="info"}
-
-You've now configured Amazon Q in both your IDE and CLI using your AWS Builder ID, giving you AI assistance across different interfaces.
+::alert[**Setup Complete!** You've now configured Amazon Q in both your IDE and CLI using your AWS Builder ID, giving you AI assistance across different interfaces.]{type="success"}
 

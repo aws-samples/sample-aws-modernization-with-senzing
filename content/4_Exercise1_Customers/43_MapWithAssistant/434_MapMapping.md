@@ -98,4 +98,4 @@ When the linter validates successfully:
 
 **Tell Amazon Q:** `yes`
 
-::alert[**Checkpoint:** Q should present a complete field disposition table with confidence scores, generate valid sample JSON, and pass linter validation before moving to OUTPUTS.]{type="info"}
+::alert[**Checkpoint:** Q should present a complete field disposition table with confidence scores, generate valid sample JSON, and pass linter validation before moving to OUTPUTS.]{type="success"}

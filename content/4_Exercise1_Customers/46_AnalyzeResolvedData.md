@@ -92,7 +92,7 @@ Try some of these:
 
 ## Exercise 3 Complete!
 
-::alert[**Checkpoint:** You've captured snapshots, analyzed resolution statistics, explored the traditional sz_explorer tool, and used the MCP server to conversationally investigate entity resolution decisions.]{type="info"}
+::alert[**Checkpoint:** You've captured snapshots, analyzed resolution statistics, explored the traditional sz_explorer tool, and used the MCP server to conversationally investigate entity resolution decisions.]{type="success"}
 
 You now have hands-on experience with the complete Senzing workflow - from mapping to loading to analysis. More importantly, you've seen how AI assistance transforms every step: from generating schemas, to validating mappings, to exploring resolved entities.
 

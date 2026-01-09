@@ -41,6 +41,4 @@ Your cloud IDE comes with all necessary tools pre-installed:
 
 ## Wrap up
 
-You have successfully accessed your VS code-server IDE, which has been pre-configured for the workshop. Please move to the next section where you will authenticate with the Amazon Q Developer extension and CLI.
-
-::alert[**Next Step:** Proceed to [Amazon Q Authentication Setup](/2_Setup_Configuration/23_AmazonQSetup) to connect to Amazon Q Developer.]{type="info"}
+::alert[**IDE Access Complete!** You have successfully accessed your VS code-server IDE, which has been pre-configured for the workshop. Proceed to [Amazon Q Authentication Setup](/2_Setup_Configuration/23_AmazonQSetup) to connect to Amazon Q Developer.]{type="success"}

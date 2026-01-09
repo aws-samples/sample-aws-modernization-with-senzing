@@ -7,9 +7,7 @@ weight = 61
 
 This exercise is more complex than Exercise 1. **You'll need to take charge of the process**, questioning AI assumptions, verifying decisions against actual data, and driving the workflow to completion.
 
-::alert[
-**Your Role**: The prompts shown throughout this exercise are examples from a real session—yours will differ based on your questions and the AI's responses. Focus on the decision-making patterns, not exact prompts.
-]{type="info"}
+::alert[**Your Role**: The prompts shown throughout this exercise are examples from a real session—yours will differ based on your questions and the AI's responses. Focus on the decision-making patterns, not exact prompts.]{type="info"}
 
 ---
 
@@ -23,13 +21,9 @@ Throughout this workflow, don't be afraid to:
 - **Question decisions** - Request pros and cons if presented with options
 - **Direct it** to re-examine data or revisit previous steps as needed
 
-::alert[
-**To interrupt the AI**: Press the stop button on the lower right of the prompt box.
-]{type="info"}
+::alert[**To interrupt the AI**: Press the stop button on the lower right of the prompt box.]{type="info"}
 
-::alert[
-**Use copy/paste**: You can copy and paste text from the AI's response into the prompt and ask what it means.
-]{type="info"}
+::alert[**Use copy/paste**: You can copy and paste text from the AI's response into the prompt and ask what it means.]{type="info"}
 
 ---
 

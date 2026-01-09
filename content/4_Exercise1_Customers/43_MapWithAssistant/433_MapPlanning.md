@@ -74,4 +74,4 @@ When you understand the strategy:
 
 ::alert[**LEARNING OPPORTUNITY:** The more questions you ask the more you will learn!]{type="info"}
 
-::alert[**Checkpoint:** You and Q should agree on the high level strategy for mapping customers.]{type="info"}
+::alert[**Checkpoint:** You and Q should agree on the high level strategy for mapping customers.]{type="success"}

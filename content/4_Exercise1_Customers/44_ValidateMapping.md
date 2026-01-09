@@ -36,4 +36,4 @@ If the analyzer output doesn't show errors or warnings, the AI may have lost con
 
 ::alert[**About Warnings:** Warnings highlight data quality considerations, but they're informational. The data is what it is - it's just good to know these patterns in case something can be improved at the source!]{type="info"}
 
-::alert[**Checkpoint:** Your mapped data should pass validation with no errors. All 120 records should be valid Senzing JSON with features correctly recognized.]{type="info"}
+::alert[**Checkpoint:** Your mapped data should pass validation with no errors. All 120 records should be valid Senzing JSON with features correctly recognized.]{type="success"}

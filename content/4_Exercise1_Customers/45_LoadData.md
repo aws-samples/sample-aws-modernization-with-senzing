@@ -23,4 +23,4 @@ Now that your mapping is validated, configure the DATA_SOURCE and load the custo
 
 ::alert[**Real-Time Resolution:** Unlike batch systems, Senzing resolves entities as data loads. By the time loading completes, all 120 records have been fully processed and resolved.]{type="info"}
 
-::alert[**Checkpoint:** All 120 customer records should be loaded with 8 redo records processed. No errors should occur.]{type="info"}
+::alert[**Checkpoint:** All 120 customer records should be loaded with 8 redo records processed. No errors should occur.]{type="success"}

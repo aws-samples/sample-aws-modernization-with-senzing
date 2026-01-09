@@ -74,4 +74,4 @@ The Mapping Assistant doesn't just generate code—it teaches you about entity r
 
 ::alert[**Learning Opportunity:** Please ask the AI questions as you go!  This teaches you what makes a valid Senzing JSON record and common mapping mistakes to avoid.]{type="info"}
 
-::alert[**Checkpoint:** You should have three files in `workshop/workspace/customers/`: `customers_mapper.py`, `customers_mapper.md`, and `README.md`. Review them to ensure they match your requirements.]{type="info"}
+::alert[**Checkpoint:** You should have three files in `workshop/workspace/customers/`: `customers_mapper.py`, `customers_mapper.md`, and `README.md`. Review them to ensure they match your requirements.]{type="success"}
