@@ -4,8 +4,6 @@ chapter = true
 weight = 6
 +++
 
-# Exercise 2: Watchlist
-
 ## Map and Load Watchlist Data
 
 ## Overview

@@ -3,7 +3,7 @@ title = "Stage 5: OUTPUTS"
 weight = 435
 +++
 
-## Stage 5: OUTPUTS - Generate Code and Docs
+## OUTPUTS - Generate Code and Docs
 
 The AI generates three production-ready files that document and implement your mapping.
 

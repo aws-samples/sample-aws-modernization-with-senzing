@@ -3,7 +3,7 @@ title = "Stage 2: INVENTORY"
 weight = 432
 +++
 
-## Stage 2: INVENTORY - Analyze Schema
+## INVENTORY - Analyze Schema
 
 Provide the customer schema you generated in Step 2 so the AI can extract all source fields.
 

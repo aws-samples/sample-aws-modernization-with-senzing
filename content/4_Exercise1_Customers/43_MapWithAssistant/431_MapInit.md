@@ -3,7 +3,7 @@ title = "Stage 1: INIT"
 weight = 431
 +++
 
-## Stage 1: INIT - Load References
+## INIT - Load References
 
 Start the Mapping Assistant to load the Senzing specification and examples into Q's context.
 

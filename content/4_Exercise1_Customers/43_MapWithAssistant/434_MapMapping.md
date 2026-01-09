@@ -3,7 +3,7 @@ title = "Stage 4: MAPPING"
 weight = 434
 +++
 
-## Stage 4: MAPPING - Field-by-Field Decisions
+## MAPPING - Field-by-Field Decisions
 
 This is the core of the mapping process. The AI will present a complete field disposition table with confidence scores.
 

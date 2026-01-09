@@ -3,7 +3,7 @@ title = "Stage 3: PLANNING"
 weight = 433
 +++
 
-## Stage 3: PLANNING - High-Level Strategy
+## PLANNING - High-Level Strategy
 
 The AI automatically moves to planning and presents a high-level mapping strategy.
 
