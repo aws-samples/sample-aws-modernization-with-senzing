@@ -37,7 +37,7 @@ Your cloud IDE comes with all necessary tools pre-installed:
 | [Amazon Q extension for Visual Studio Code](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE-setup.html) | IDE extension that provides AI-powered code suggestions, chat assistance, and MCP server support |
 | [senzing-mcp-server](https://github.com/jbutcher21/senzing-mcp-server) | Model Context Protocol server that connects Amazon Q to Senzing capabilities |
 
-📁 **Workshop Materials Location:** Workshop files and Senzing resources are located in `/home/ubuntu/`
+📁 **Workshop Materials Location:** Workshop files and Senzing resources are located in `/home/ubuntu/workshop`
 
 ## Wrap up
 
