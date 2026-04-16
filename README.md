@@ -13,7 +13,7 @@
         └── index.en.md               <-- Markdown file that would be render 
 ```
 
-## What's Included
+## What's Included 
 
 This project contains the following folders:
 * `static`: This folder contains static assets to be hosted alongside the workshop (ie. images, scripts, documents, etc) 
